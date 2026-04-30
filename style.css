@@ -127,3 +127,11 @@ input, select {
   padding: 20px;
   margin-top: 40px;
 }
+
+#treelist .card {
+  margin-top: 15px;
+}
+
+.card button {
+  margin-top: 10px;
+}
