@@ -49,9 +49,13 @@ Funcionalidades implementadas:
 * Pesquisa
 * Filtros
 
-Repositório Django:
+Repositório de desenvolvimento:
 
 https://github.com/leonor922/GSI25_P2_biblioteca
+
+Pull Request de entrega:
+
+https://github.com/Luis-AFO-Gomes/GSI25_P2_biblioteca/pulls
 
 Branch utilizada:
 
